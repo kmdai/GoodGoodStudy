@@ -1,0 +1,1752 @@
+[
+    {
+        "uri": "jingdong://favourites/{param}",
+        "type": "0",
+        "activity": "com.jingdong.app.mall.favorites.FavoListFragmentActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://jdgameactivity/{param}",
+        "type": "0",
+        "activity": "com.jingdong.app.mall.JDGameActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://jdtaskclearactivity/{param}",
+        "type": "0",
+        "activity": "com.jingdong.app.mall.basic.JDTaskClearActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://WebActivityLandscape/{param}",
+        "type": "0",
+        "activity": "com.jingdong.app.mall.WebActivityLandscape",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://main/crash/call_on_time",
+        "type": "0",
+        "activity": "com.jingdong.app.mall.crash.JDCallOnTimeActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://commercialruleactivity/{param}",
+        "type": "0",
+        "activity": "com.jingdong.app.mall.product.CommercialRuleActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://main/more/host_select",
+        "type": "0",
+        "activity": "com.jingdong.app.mall.more.HostSelectActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://voicesearchactivity/{param}",
+        "type": "0",
+        "activity": "com.jingdong.app.mall.more.VoiceSearchActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://idcarduploadactivity/{param}",
+        "type": "0",
+        "activity": "com.jingdong.app.mall.personel.IdCardUploadActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://recoder_activity/{param}",
+        "type": "0",
+        "activity": "com.jingdong.app.mall.unifiedcontrol.recoder.RecoderActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://webactivity/{param}",
+        "type": "0",
+        "activity": "com.jingdong.app.mall.WebActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://jdgameportraitactivity/{param}",
+        "type": "0",
+        "activity": "com.jingdong.app.mall.JDGamePortraitActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://jdreactnativelivingpayactivity/{param}",
+        "type": "0",
+        "activity": "com.jingdong.common.jdreactFramework.activities.JDReactNativeLivingPayActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://babelvideoactivity/{param}",
+        "type": "0",
+        "activity": "com.jingdong.common.babel.view.activity.BabelVideoActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://phonebabelactivity/{param}",
+        "type": "0",
+        "activity": "com.jingdong.common.babel.view.activity.BabelActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://jshoptakecoupon/{param}",
+        "type": "0",
+        "activity": "com.jingdong.common.sample.JshopTakeCouponActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://jshopdynamicdetail/{param}",
+        "type": "0",
+        "activity": "com.jingdong.common.sample.jshop.JShopDynamicDetailActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://jshopdynamicmoreproducts/{param}",
+        "type": "0",
+        "activity": "com.jingdong.common.sample.jshop.JShopDynamicMoreProductsActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://jshopdetail/{param}",
+        "type": "0",
+        "activity": "com.jingdong.common.sample.jshop.JshopDetailActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://jshopsignup/{param}",
+        "type": "0",
+        "activity": "com.jingdong.common.sample.jshop.JShopSignNewActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://jshopmemberactivity_origin/{mParam}",
+        "type": "0",
+        "activity": "com.jingdong.common.sample.jshopmember.JshopMemberActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://jshopsearchlistactivity_origin/{mParam}",
+        "type": "0",
+        "activity": "com.jingdong.common.sample.JshopSearchListActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://jshopcouponslist/{param}",
+        "type": "0",
+        "activity": "com.jingdong.common.sample.JshopCouponsListActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://JshopNoPayPinActivity/{param}",
+        "type": "0",
+        "activity": "com.jingdong.common.sample.JshopNoPayPinActivity",
+        "method": "",
+        "bundle": "main"
+    },
+    {
+        "uri": "jingdong://jdread/tryread",
+        "type": "0",
+        "activity": "com.jd.lib.tryread.TryReadPaperBookActivity",
+        "method": "",
+        "bundle": "com.jd.lib.tryread"
+    },
+    {
+        "uri": "jingdong://mystreetlikemore/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.mystreet.view.activity.LikeMoreActivity",
+        "method": "",
+        "bundle": "com.jd.lib.mystreet"
+    },
+    {
+        "uri": "jingdong://recommenddetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.mystreet.view.activity.RecommendDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.mystreet"
+    },
+    {
+        "uri": "jingdong://mystreet/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.mystreet.view.activity.MyStreetAct",
+        "method": "",
+        "bundle": "com.jd.lib.mystreet"
+    },
+    {
+        "uri": "jingdong://mystreetsimilarrecom/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.mystreet.view.activity.SimilarRecomListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.mystreet"
+    },
+    {
+        "uri": "jingdong://mystreetgenerecom/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.mystreet.view.activity.GeneRecomListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.mystreet"
+    },
+    {
+        "uri": "jingdong://jdpaycodeactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdpaycode.JDPayCodeActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdpaycode"
+    },
+    {
+        "uri": "jingdong://miaoshabrandinner/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdmiaosha.activity.MiaoShaNewBrandInnerActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdmiaosha"
+    },
+    {
+        "uri": "jingdong://miaoshaactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdmiaosha.activity.MiaoShaActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdmiaosha"
+    },
+    {
+        "uri": "jingdong://miaoshamyconcern/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdmiaosha.activity.MiaoShaMyConcernInnerActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdmiaosha"
+    },
+    {
+        "uri": "jingdong://miaoshagroupnewproduct/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdmiaosha.activity.MiaoShaGroupNewProductActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdmiaosha"
+    },
+    {
+        "uri": "jingdong://miaoshaliangfan/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdmiaosha.activity.MiaoShaLiangfanActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdmiaosha"
+    },
+    {
+        "uri": "jingdong://miaoshabannerinner/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdmiaosha.activity.MiaoShaBannerInnerActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdmiaosha"
+    },
+    {
+        "uri": "jingdong://miaoshabrandcategoryinner/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdmiaosha.activity.MiaoShaNewBrandCategoryInnerActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdmiaosha"
+    },
+    {
+        "uri": "jingdong://miaoshanewproduct/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdmiaosha.activity.MiaoShaNewProductActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdmiaosha"
+    },
+    {
+        "uri": "jingdong://miaoshacategory/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdmiaosha.activity.MiaoShaCategoryInnerActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdmiaosha"
+    },
+    {
+        "uri": "jingdong://newfillorderactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.settlement.fillorder.activity.NewFillOrderActivity",
+        "method": "",
+        "bundle": "com.jd.lib.settlement"
+    },
+    {
+        "uri": "jingdong://jshopdynamicset/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jshopcustom.activity.JShopDynamicSetActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jshopcustom"
+    },
+    {
+        "uri": "jingdong://jshoplabelactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jshopcustom.activity.JShopLabelActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jshopcustom"
+    },
+    {
+        "uri": "jingdong://jshoppraisedynamicactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jshopcustom.activity.JShopPraiseDynamicActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jshopcustom"
+    },
+    {
+        "uri": "jingdong://jshopdynafragmentact/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jshopcustom.activity.JshopDynaFragmentActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jshopcustom"
+    },
+    {
+        "uri": "jingdong://jshopgoodshop/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jshopcustom.activity.JShopGoodShopActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jshopcustom"
+    },
+    {
+        "uri": "jingdong://jpicshow/contributedetail",
+        "type": "0",
+        "activity": "com.jd.lib.community.pic.view.activity.PicContributeDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.community"
+    },
+    {
+        "uri": "jingdong://jpicshow/picmainview",
+        "type": "0",
+        "activity": "com.jd.lib.community.pic.view.activity.PicMainViewActivity",
+        "method": "",
+        "bundle": "com.jd.lib.community"
+    },
+    {
+        "uri": "jingdong://jshow/mainviewsku",
+        "type": "0",
+        "activity": "com.jd.lib.community.show.view.activity.MainViewSkuActivity",
+        "method": "",
+        "bundle": "com.jd.lib.community"
+    },
+    {
+        "uri": "jingdong://jshow/mainview",
+        "type": "0",
+        "activity": "com.jd.lib.community.show.view.activity.MainViewActivity",
+        "method": "",
+        "bundle": "com.jd.lib.community"
+    },
+    {
+        "uri": "jingdong://jshow/imagemanipulation",
+        "type": "0",
+        "activity": "com.jd.lib.community.show.view.activity.ImageManipulationActivity",
+        "method": "",
+        "bundle": "com.jd.lib.community"
+    },
+    {
+        "uri": "jingdong://mycalendar/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.mycalendar.view.activity.MyCalendarActivity",
+        "method": "",
+        "bundle": "com.jd.lib.mycalendar"
+    },
+    {
+        "uri": "jingdong://rankinglistactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.rank.view.activity.RankingListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.rank"
+    },
+    {
+        "uri": "jingdong://rankrecommendinnerpageactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.rank.view.activity.RankRecommendInnerPageActivity",
+        "method": "",
+        "bundle": "com.jd.lib.rank"
+    },
+    {
+        "uri": "jingdong://rankcatalogactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.rank.view.activity.RankCatalogActivity",
+        "method": "",
+        "bundle": "com.jd.lib.rank"
+    },
+    {
+        "uri": "jingdong://rankCateIntermediateActivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.rank.view.activity.RankCateIntermediateActivity",
+        "method": "",
+        "bundle": "com.jd.lib.rank"
+    },
+    {
+        "uri": "jingdong://rankhomeactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.rank.view.activity.RankHomeActivity",
+        "method": "",
+        "bundle": "com.jd.lib.rank"
+    },
+    {
+        "uri": "jingdong://my_coupon_fetch_list_activity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.mycoupon.mvp.view.activity.CouponFetchActivity",
+        "method": "",
+        "bundle": "com.jd.lib.mycoupon"
+    },
+    {
+        "uri": "jingdong://my_coupon_activity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.mycoupon.mvp.view.activity.CouponActivity",
+        "method": "",
+        "bundle": "com.jd.lib.mycoupon"
+    },
+    {
+        "uri": "jingdong://productlistPurchase/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.search.view.Activity.PurchasePromotionActivity",
+        "method": "",
+        "bundle": "com.jd.lib.search"
+    },
+    {
+        "uri": "jingdong://serachactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.search.view.Activity.SearchActivity",
+        "method": "",
+        "bundle": "com.jd.lib.search"
+    },
+    {
+        "uri": "jingdong://productlist/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.search.view.Activity.ProductListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.search"
+    },
+    {
+        "uri": "jingdong://multiselleractivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.search.view.Activity.MultiSellerActivity",
+        "method": "",
+        "bundle": "com.jd.lib.search"
+    },
+    {
+        "uri": "jingdong://productlistConverge/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.search.view.Activity.ConvergeListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.search"
+    },
+    {
+        "uri": "jingdong://productarbuyactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.threedproduct.ProductArBuyActivity",
+        "method": "",
+        "bundle": "com.jd.lib.threedproduct"
+    },
+    {
+        "uri": "jingdong://threedproductactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.threedproduct.Product3dActivity",
+        "method": "",
+        "bundle": "com.jd.lib.threedproduct"
+    },
+    {
+        "uri": "jingdong://commentphoto/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.shareorder.CommentPhotoActivity",
+        "method": "",
+        "bundle": "com.jd.lib.shareorder"
+    },
+    {
+        "uri": "jingdong://CommentReportDetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.shareorder.CommentReportDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.shareorder"
+    },
+    {
+        "uri": "jingdong://mycardbagactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.card.view.activity.MyCardBagActivity",
+        "method": "",
+        "bundle": "com.jd.lib.card"
+    },
+    {
+        "uri": "jingdong://usermanageractivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.usermanager.view.activity.UserManagerActivity",
+        "method": "",
+        "bundle": "com.jd.lib.usermanager"
+    },
+    {
+        "uri": "jingdong://idpluscar/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.usermanager.info.view.activity.CardCarActivity",
+        "method": "",
+        "bundle": "com.jd.lib.usermanager"
+    },
+    {
+        "uri": "jingdong://usersecondactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.usermanager.info.view.activity.PersonalInfoSecActivity",
+        "method": "",
+        "bundle": "com.jd.lib.usermanager"
+    },
+    {
+        "uri": "jingdong://notifyprice/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.favourites.NotifyProductArrivedActivity",
+        "method": "",
+        "bundle": "com.jd.lib.favourites"
+    },
+    {
+        "uri": "jingdong://jdfansinglegooddetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdfan.activity.SingleGoodDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdfan"
+    },
+    {
+        "uri": "jingdong://jdfancardcollection/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdfan.activity.CardsGroupActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdfan"
+    },
+    {
+        "uri": "jingdong://jdfanctivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdfan.activity.GoddessStyleActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdfan"
+    },
+    {
+        "uri": "jingdong://jshoptopicware/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jshop.jshop.JshopTopicWareActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jshop"
+    },
+    {
+        "uri": "jingdong://jshoppromotion/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jshop.jshop.JShopPromotionActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jshop"
+    },
+    {
+        "uri": "jingdong://jshopsearchactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jshop.jshop.JshopSearchActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jshop"
+    },
+    {
+        "uri": "jingdong://jshopproductlist/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jshop.jshop.JshopProductListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jshop"
+    },
+    {
+        "uri": "jingdong://mainshop/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jshop.jshop.JshopMainShopActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jshop"
+    },
+    {
+        "uri": "jingdong://jshopmemberactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jshop.jshop.JshopMemberActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jshop"
+    },
+    {
+        "uri": "jingdong://jshopsearchword/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jshop.jshop.JshopSearchWordActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jshop"
+    },
+    {
+        "uri": "jingdong://jshopnew/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jshop.jshop.JShopNewActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jshop"
+    },
+    {
+        "uri": "jingdong://jshopdynamic/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jshop.jshop.JShopDynamicActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jshop"
+    },
+    {
+        "uri": "jingdong://jshopActivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jshop.JShopActivityActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jshop"
+    },
+    {
+        "uri": "jingdong://jshoprecommendproductlist/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jshop.mvp.JShopRecommendProductActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jshop"
+    },
+    {
+        "uri": "jingdong://LiveSmallVideo/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.smallvideo.view.activity.SmallVideoActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdlivelist"
+    },
+    {
+        "uri": "jingdong://videolife/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.videolife.view.activity.VideoLifeActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdlivelist"
+    },
+    {
+        "uri": "jingdong://VideoImmersion/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.videoimmersion.view.activity.VideoImmersionActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdlivelist"
+    },
+    {
+        "uri": "jingdong://jdlivelist/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdlivelist.view.activity.FaxianLiveListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdlivelist"
+    },
+    {
+        "uri": "jingdong://LivePredictList/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdlivelist.view.activity.FaxianPredictListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdlivelist"
+    },
+    {
+        "uri": "jingdong://livepredict/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdlivelist.apredict.view.activity.LivePredictActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdlivelist"
+    },
+    {
+        "uri": "jingdong://enjoybuybrandactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.enjoybuy.EnjoyBuyBrandActivity",
+        "method": "",
+        "bundle": "com.jd.lib.enjoybuy"
+    },
+    {
+        "uri": "jingdong://enjoybuymainactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.enjoybuy.EnjoyBuyMainActivity",
+        "method": "",
+        "bundle": "com.jd.lib.enjoybuy"
+    },
+    {
+        "uri": "jingdong://topicdetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.goodstuff.view.activity.TopicDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.goodstuff"
+    },
+    {
+        "uri": "jingdong://singleproduct/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.goodstuff.view.activity.SingleProductDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.goodstuff"
+    },
+    {
+        "uri": "jingdong://goodstuff/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.goodstuff.view.activity.GoodStuffActivity",
+        "method": "",
+        "bundle": "com.jd.lib.goodstuff"
+    },
+    {
+        "uri": "jingdong://inventory/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.goodstuff.inventory.view.activity.InventoryActivity",
+        "method": "",
+        "bundle": "com.jd.lib.goodstuff"
+    },
+    {
+        "uri": "jingdong://inventorydetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.goodstuff.inventory.view.activity.InventoryDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.goodstuff"
+    },
+    {
+        "uri": "jingdong://inventorytag/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.goodstuff.inventory.view.activity.InventoryTagsActivity",
+        "method": "",
+        "bundle": "com.jd.lib.goodstuff"
+    },
+    {
+        "uri": "jingdong://photos/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.goodstuff.photos.view.activity.PhotosActivity",
+        "method": "",
+        "bundle": "com.jd.lib.goodstuff"
+    },
+    {
+        "uri": "jingdong://logisticspath/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.ordercenter.logisticspath.LogisticsPathActivity",
+        "method": "",
+        "bundle": "com.jd.lib.ordercenter"
+    },
+    {
+        "uri": "jingdong://oftenbuylist/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.ordercenter.mygoodsorderlist.view.activity.AlwaysBuyActivity",
+        "method": "",
+        "bundle": "com.jd.lib.ordercenter"
+    },
+    {
+        "uri": "jingdong://myorderlist/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.ordercenter.mygoodsorderlist.view.activity.MyOrderListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.ordercenter"
+    },
+    {
+        "uri": "jingdong://logisticstracklayer/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.ordercenter.logisticstracklayer.LogisticsTrackLayerActivity",
+        "method": "",
+        "bundle": "com.jd.lib.ordercenter"
+    },
+    {
+        "uri": "jingdong://cancelprogress/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.ordercenter.myorderdetail.view.activity.CancelProgressActivity",
+        "method": "",
+        "bundle": "com.jd.lib.ordercenter"
+    },
+    {
+        "uri": "jingdong://installtrace/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.ordercenter.myorderdetail.view.activity.InstallTraceActivity",
+        "method": "",
+        "bundle": "com.jd.lib.ordercenter"
+    },
+    {
+        "uri": "jingdong://neworderdetailactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.ordercenter.neworderdetail.NewOrderDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.ordercenter"
+    },
+    {
+        "uri": "jingdong://logisticstrack/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.ordercenter.logisticstrack.LogisticsTrackActivity",
+        "method": "",
+        "bundle": "com.jd.lib.ordercenter"
+    },
+    {
+        "uri": "jingdong://jdmadeallgoods/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdmade.view.activity.JDMadeAllGoodsActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdmade"
+    },
+    {
+        "uri": "jingdong://jdmademainactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdmade.view.activity.JDMadeActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdmade"
+    },
+    {
+        "uri": "jingdong://jdmaderank/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdmade.view.activity.JDMadePopularityRankingActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdmade"
+    },
+    {
+        "uri": "jingdong://jdmadelife/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdmade.view.activity.JDMadeLifeActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdmade"
+    },
+    {
+        "uri": "jingdong://registeractivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.login.RegisterActivity",
+        "method": "",
+        "bundle": "com.jd.lib.login"
+    },
+    {
+        "uri": "jingdong://loginin/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.login.LoginActivity",
+        "method": "",
+        "bundle": "com.jd.lib.login"
+    },
+    {
+        "uri": "jingdong://scancodeloginactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.login.ScanCodeLoginActivity",
+        "method": "",
+        "bundle": "com.jd.lib.login"
+    },
+    {
+        "uri": "jingdong://ChinaMobileLoginActivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.login.ChinaMobileLoginActivity",
+        "method": "",
+        "bundle": "com.jd.lib.login"
+    },
+    {
+        "uri": "jingdong://browserhistory/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.browserhistory.HistoryListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.browserhistory"
+    },
+    {
+        "uri": "jingdong://scancapture/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.scan.lib.zxing.client.android.CaptureActivity",
+        "method": "",
+        "bundle": "com.jd.lib.scan"
+    },
+    {
+        "uri": "jingdong://scanphotobuy/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.scan.photobuy.PhotoBuyActivity",
+        "method": "",
+        "bundle": "com.jd.lib.scan"
+    },
+    {
+        "uri": "jingdong://productdetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.productdetail.ProductDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.productdetail"
+    },
+    {
+        "uri": "jingdong://buyasklistactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.productdetail.BuyAskListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.productdetail"
+    },
+    {
+        "uri": "jingdong://giftshoppingactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.productdetail.giftshopping.GiftShoppingActivity",
+        "method": "",
+        "bundle": "com.jd.lib.productdetail"
+    },
+    {
+        "uri": "jingdong://giftShoppingGreetingActivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.productdetail.giftshopping.GiftShoppingGreetingActivity",
+        "method": "",
+        "bundle": "com.jd.lib.productdetail"
+    },
+    {
+        "uri": "jingdong://mywalletactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.mywallet.view.activity.WalletActivity",
+        "method": "",
+        "bundle": "com.jd.lib.mywallet"
+    },
+    {
+        "uri": "jingdong://jdToMobike/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.mywallet.view.activity.MobikeMViewActivity",
+        "method": "",
+        "bundle": "com.jd.lib.mywallet"
+    },
+    {
+        "uri": "jingdong://fairy/home",
+        "type": "0",
+        "activity": "com.jd.lib.fairy.home.FairyHomeActivity",
+        "method": "",
+        "bundle": "com.jd.lib.fairy"
+    },
+    {
+        "uri": "jingdong://jdfamilyactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdcustomchannel.view.activity.JDFamilyActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdcustomchannel"
+    },
+    {
+        "uri": "jingdong://jdpaygeneralflowactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdpaygeneral.JDPayGeneralFlowActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdpaygeneral"
+    },
+    {
+        "uri": "jingdong://worthbuy_like/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.worthbuy.view.activity.WorthbuyLikeActivity",
+        "method": "",
+        "bundle": "com.jd.lib.worthbuy"
+    },
+    {
+        "uri": "jingdong://worthbuyarticledetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.worthbuy.view.activity.ArticleDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.worthbuy"
+    },
+    {
+        "uri": "jingdong://worthbuy/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.worthbuy.view.activity.WorthbuyListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.worthbuy"
+    },
+    {
+        "uri": "jingdong://worthbuyauthor/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.worthbuy.view.activity.WorthbuyAuthorActivity",
+        "method": "",
+        "bundle": "com.jd.lib.worthbuy"
+    },
+    {
+        "uri": "jingdong://worthbuyalbumdetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.worthbuy.view.activity.AlbumDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.worthbuy"
+    },
+    {
+        "uri": "jingdong://worthbuyalbum2Gdetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.worthbuy.view.activity.AlbumDetail2GActivity",
+        "method": "",
+        "bundle": "com.jd.lib.worthbuy"
+    },
+    {
+        "uri": "jingdong://worthbuy2Ginventorydetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.worthbuy.view.activity.InventoryDetail2GActivity",
+        "method": "",
+        "bundle": "com.jd.lib.worthbuy"
+    },
+    {
+        "uri": "jingdong://worthbuytag/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.worthbuy.view.activity.WorthbuyTagActivity",
+        "method": "",
+        "bundle": "com.jd.lib.worthbuy"
+    },
+    {
+        "uri": "jingdong://worthbuyinventorydetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.worthbuy.view.activity.InventoryDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.worthbuy"
+    },
+    {
+        "uri": "jingdong://worthbuygoodsdetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.worthbuy.view.activity.WorthbuyDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.worthbuy"
+    },
+    {
+        "uri": "jingdong://worthbuyNewProductDetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.worthbuy.view.activity.WorthbuyNewProductDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.worthbuy"
+    },
+    {
+        "uri": "jingdong://imageactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.unification.view.ImageActivity",
+        "method": "",
+        "bundle": "com.jd.lib.unification"
+    },
+    {
+        "uri": "jingdong://video_player_activity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.unification.video.player.VideoPlayerActivity",
+        "method": "",
+        "bundle": "com.jd.lib.unification"
+    },
+    {
+        "uri": "jingdong://video_editor_activity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.unification.video.editor.VideoEditorActivity",
+        "method": "",
+        "bundle": "com.jd.lib.unification"
+    },
+    {
+        "uri": "jingdong://video_recorder_activity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.unification.video.recorder.VideoRecorderActivity",
+        "method": "",
+        "bundle": "com.jd.lib.unification"
+    },
+    {
+        "uri": "jingdong://album_activity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.unification.album.activity.PhotoAlbumActivity",
+        "method": "",
+        "bundle": "com.jd.lib.unification"
+    },
+    {
+        "uri": "jingdong://image_editor_activity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.unification.image.editor.ImageEditorActivity",
+        "method": "",
+        "bundle": "com.jd.lib.unification"
+    },
+    {
+        "uri": "jingdong://followtopic/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.follow.view.activity.FollowTopicActivity",
+        "method": "",
+        "bundle": "com.jd.lib.follow"
+    },
+    {
+        "uri": "jingdong://follow/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.follow.view.activity.FollowActivity",
+        "method": "",
+        "bundle": "com.jd.lib.follow"
+    },
+    {
+        "uri": "jingdong://matchdetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.follow.view.activity.MatchDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.follow"
+    },
+    {
+        "uri": "jingdong://myfollow/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.follow.view.activity.MyFollowActivity",
+        "method": "",
+        "bundle": "com.jd.lib.follow"
+    },
+    {
+        "uri": "jingdong://followchannel/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.follow.view.activity.FollowChannelActivity",
+        "method": "",
+        "bundle": "com.jd.lib.follow"
+    },
+    {
+        "uri": "jingdong://feedbackactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.setting.view.activity.FeedbackActivity",
+        "method": "",
+        "bundle": "com.jd.lib.setting"
+    },
+    {
+        "uri": "jingdong://moresettingactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.setting.view.activity.MoreSettingActivity",
+        "method": "",
+        "bundle": "com.jd.lib.setting"
+    },
+    {
+        "uri": "jingdong://privacypolicypage/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.setting.view.activity.SecSettingActivity",
+        "method": "",
+        "bundle": "com.jd.lib.setting"
+    },
+    {
+        "uri": "jingdong://aboutkactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.setting.view.activity.AboutActivity",
+        "method": "",
+        "bundle": "com.jd.lib.setting"
+    },
+    {
+        "uri": "jingdong://jdpayactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdpaysdk.JDPayActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdpaysdk"
+    },
+    {
+        "uri": "jingdong://icsactivityshadow/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.icssdk.ActivityShadow",
+        "method": "",
+        "bundle": "com.jd.lib.icssdk"
+    },
+    {
+        "uri": "jingdong://storycontainer/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.story.StoryContainerActivity",
+        "method": "",
+        "bundle": "com.jd.lib.story"
+    },
+    {
+        "uri": "jingdong://storystatusbarcontainer/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.story.StoryStatusBarContainerActivity",
+        "method": "",
+        "bundle": "com.jd.lib.story"
+    },
+    {
+        "uri": "jingdong://storymain/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.story.StoryMainActivity",
+        "method": "",
+        "bundle": "com.jd.lib.story"
+    },
+    {
+        "uri": "jingdong://topicpkdetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.story.mvp.activity.StoryTopicPkActivity",
+        "method": "",
+        "bundle": "com.jd.lib.story"
+    },
+    {
+        "uri": "jingdong://storydetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.story.mvp.activity.StoryDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.story"
+    },
+    {
+        "uri": "jingdong://circledetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.story.circle.detail.StoryCircleDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.story"
+    },
+    {
+        "uri": "jingdong://u235activity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.sonicredpacket.U235Activity",
+        "method": "",
+        "bundle": "com.jd.lib.sonicredpacket"
+    },
+    {
+        "uri": "jingdong://intelligent_assistant_setting/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.intelligentassistance.view.activity.AssistantSettingActivity",
+        "method": "",
+        "bundle": "com.jd.lib.intelligentassistance"
+    },
+    {
+        "uri": "jingdong://intelligent_assistant/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.intelligentassistance.view.activity.IntelligentAssistantMainActivity",
+        "method": "",
+        "bundle": "com.jd.lib.intelligentassistance"
+    },
+    {
+        "uri": "jingdong://intelligent_assistant_nickname_modification/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.intelligentassistance.view.activity.AssistantNicknameModificationActivity",
+        "method": "",
+        "bundle": "com.jd.lib.intelligentassistance"
+    },
+    {
+        "uri": "jingdong://intelligent_assistant_chat_timbre/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.intelligentassistance.view.activity.ChatTimbreActivity",
+        "method": "",
+        "bundle": "com.jd.lib.intelligentassistance"
+    },
+    {
+        "uri": "jingdong://intelligent_assistant_login_guide_page/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.intelligentassistance.view.activity.LoginGuidePage",
+        "method": "",
+        "bundle": "com.jd.lib.intelligentassistance"
+    },
+    {
+        "uri": "jingdong://intelligent_assistant_mall/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.intelligentassistance.view.activity.MallSystemActivity",
+        "method": "",
+        "bundle": "com.jd.lib.intelligentassistance"
+    },
+    {
+        "uri": "jingdong://intelligent_assistant_skill_introduction/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.intelligentassistance.view.activity.SkillIntroductionActivity",
+        "method": "",
+        "bundle": "com.jd.lib.intelligentassistance"
+    },
+    {
+        "uri": "jingdong://intelligent_assistant_voice_report_control/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.intelligentassistance.view.activity.VoiceReportControlActivity",
+        "method": "",
+        "bundle": "com.jd.lib.intelligentassistance"
+    },
+    {
+        "uri": "jingdong://chat_background_setting_activity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.intelligentassistance.view.activity.ChatBackgroundSettingActivity",
+        "method": "",
+        "bundle": "com.jd.lib.intelligentassistance"
+    },
+    {
+        "uri": "jingdong://jdpayquickpassactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.quickpass.JDPayQuickPassActivity",
+        "method": "",
+        "bundle": "com.jd.lib.quickpass"
+    },
+    {
+        "uri": "jingdong://vangoph/detail",
+        "type": "0",
+        "activity": "com.jd.lib.vangoph.page.DetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.vangoph"
+    },
+    {
+        "uri": "jingdong://vangoph/collectionDetail",
+        "type": "0",
+        "activity": "com.jd.lib.vangoph.page.CollectDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.vangoph"
+    },
+    {
+        "uri": "jingdong://vangoph/main",
+        "type": "0",
+        "activity": "com.jd.lib.vangoph.page.PinterestActivity",
+        "method": "",
+        "bundle": "com.jd.lib.vangoph"
+    },
+    {
+        "uri": "jingdong://evaluatecenter/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.evaluatecenter.view.activity.EvaluateCenterActivity",
+        "method": "",
+        "bundle": "com.jd.lib.evaluatecenter"
+    },
+    {
+        "uri": "jingdong://evaluateagain/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.evaluatecenter.view.activity.EvaluateAgainActivity",
+        "method": "",
+        "bundle": "com.jd.lib.evaluatecenter"
+    },
+    {
+        "uri": "jingdong://evaluateedit/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.evaluatecenter.view.activity.EvaluateEditActivity",
+        "method": "",
+        "bundle": "com.jd.lib.evaluatecenter"
+    },
+    {
+        "uri": "jingdong://evaluateunite/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.evaluatecenter.view.activity.OrderProductListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.evaluatecenter"
+    },
+    {
+        "uri": "jingdong://commentsecondreply/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.evaluatecenter.view.activity.SecondReplyActivity",
+        "method": "",
+        "bundle": "com.jd.lib.evaluatecenter"
+    },
+    {
+        "uri": "jingdong://evaluatedetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.evaluatecenter.view.activity.EvaluateDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.evaluatecenter"
+    },
+    {
+        "uri": "jingdong://evaluatesuccess/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.evaluatecenter.view.activity.EvaluateSuccessActivity",
+        "method": "",
+        "bundle": "com.jd.lib.evaluatecenter"
+    },
+    {
+        "uri": "jingdong://messagecenteraddressbookactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.message.messagecenter.view.activity.MessageCenterAddressBookActivity",
+        "method": "",
+        "bundle": "com.jd.lib.message"
+    },
+    {
+        "uri": "jingdong://messagecentersettingactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.message.messagecenter.view.activity.MessageCenterSettingActivity",
+        "method": "",
+        "bundle": "com.jd.lib.message"
+    },
+    {
+        "uri": "jingdong://messagecentermainactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.message.messagecenter.view.activity.MessageCenterMainActivity",
+        "method": "",
+        "bundle": "com.jd.lib.message"
+    },
+    {
+        "uri": "jingdong://messagecentershieldsubscriptionnumberactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.message.messagecenter.view.activity.MessageCenterShieldSubscriptionNumberActivity",
+        "method": "",
+        "bundle": "com.jd.lib.message"
+    },
+    {
+        "uri": "jingdong://markethistory/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.coupon.lib.market.history.MarketHistoryActivity",
+        "method": "",
+        "bundle": "com.jd.lib.coupon"
+    },
+    {
+        "uri": "jingdong://couponcenter/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.coupon.lib.CouponCenterActivity",
+        "method": "",
+        "bundle": "com.jd.lib.coupon"
+    },
+    {
+        "uri": "jingdong://couponcenter_market/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.coupon.lib.MarketActivity",
+        "method": "",
+        "bundle": "com.jd.lib.coupon"
+    },
+    {
+        "uri": "jingdong://chargeactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.charge.view.activity.ChargeActivity",
+        "method": "",
+        "bundle": "com.jd.lib.charge"
+    },
+    {
+        "uri": "jingdong://gamechargecouponactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.charge.directbuy.GameChargeCouponActivity",
+        "method": "",
+        "bundle": "com.jd.lib.charge"
+    },
+    {
+        "uri": "jingdong://qbchargeactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.charge.directbuy.QBChargeActivity",
+        "method": "",
+        "bundle": "com.jd.lib.charge"
+    },
+    {
+        "uri": "jingdong://nfcactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.charge.nfc.NfcActivity",
+        "method": "",
+        "bundle": "com.jd.lib.charge"
+    },
+    {
+        "uri": "jingdong://phonechargefloworderdetailAct/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.charge.flowlist.PhoneChargeFlowOrderDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.charge"
+    },
+    {
+        "uri": "jingdong://phonechargeflowlistAct/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.charge.flowlist.PhoneChargeFlowListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.charge"
+    },
+    {
+        "uri": "jingdong://gamechargedetailAct/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.charge.qbgamelist.GameChargeDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.charge"
+    },
+    {
+        "uri": "jingdong://qbgameorderlistAct/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.charge.qbgamelist.QBGameOrderListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.charge"
+    },
+    {
+        "uri": "jingdong://phonechargeorderlistAct/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.charge.phonelist.PhoneChargeOrderlistActivity",
+        "method": "",
+        "bundle": "com.jd.lib.charge"
+    },
+    {
+        "uri": "jingdong://phonechargeorderdetailAct/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.charge.phonelist.PhoneChargeOrderdetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.charge"
+    },
+    {
+        "uri": "jingdong://chargecityactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.charge.city.CityActivity",
+        "method": "",
+        "bundle": "com.jd.lib.charge"
+    },
+    {
+        "uri": "jingdong://qa_list/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.qa.v.activity.QAActivity",
+        "method": "",
+        "bundle": "com.jd.lib.meme"
+    },
+    {
+        "uri": "jingdong://meme/search",
+        "type": "0",
+        "activity": "com.jd.lib.meme.search.SearchMainActivity",
+        "method": "",
+        "bundle": "com.jd.lib.meme"
+    },
+    {
+        "uri": "jingdong://faxian_author/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.author.v.activity.ContentAuthorActivity",
+        "method": "",
+        "bundle": "com.jd.lib.meme"
+    },
+    {
+        "uri": "jingdong://wendaquestion/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.wenda.view.activity.WenDaQuestionActivity",
+        "method": "",
+        "bundle": "com.jd.lib.meme"
+    },
+    {
+        "uri": "jingdong://discovery_answer_detail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.wenda.view.activity.AnswerActivity",
+        "method": "",
+        "bundle": "com.jd.lib.meme"
+    },
+    {
+        "uri": "jingdong://wl_device_details/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.link.device_details.activity.DeviceDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.link"
+    },
+    {
+        "uri": "jingdong://wl_mydeviceslist/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.link.home.HomeActivity",
+        "method": "",
+        "bundle": "com.jd.lib.link"
+    },
+    {
+        "uri": "jingdong://wl_waitadd_list/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.link.bind.activity.WaitAddModelListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.link"
+    },
+    {
+        "uri": "jingdong://wl_handler_qrcode/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.link.bind.activity.QRCodeHandlerActivity",
+        "method": "",
+        "bundle": "com.jd.lib.link"
+    },
+    {
+        "uri": "jingdong://wl_modellist/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.link.bind.activity.ProductModelListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.link"
+    },
+    {
+        "uri": "jingdong://wl_manage_devices/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.link.devicemanager.activity.DeviceManagerActivity",
+        "method": "",
+        "bundle": "com.jd.lib.link"
+    },
+    {
+        "uri": "jingdong://devmode/main",
+        "type": "0",
+        "activity": "com.jd.lib.developermode.home.DevModeMainActivity",
+        "method": "",
+        "bundle": "com.jd.lib.developermode"
+    },
+    {
+        "uri": "jingdong://combineorderactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.cart.activity.CombineOrderActivity",
+        "method": "",
+        "bundle": "com.jd.lib.cart"
+    },
+    {
+        "uri": "jingdong://giftpoolactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.cart.activity.GiftPoolActivity",
+        "method": "",
+        "bundle": "com.jd.lib.cart"
+    },
+    {
+        "uri": "jingdong://shoppingcart/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.cart.ShoppingCartNewActivity",
+        "method": "",
+        "bundle": "com.jd.lib.cart"
+    },
+    {
+        "uri": "jingdong://editorderaddress/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.address.activity.EditOrderAddressActivityNew",
+        "method": "",
+        "bundle": "com.jd.lib.address"
+    },
+    {
+        "uri": "jingdong://neweasyaddresslist/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.address.activity.NewEasyBuyAddressListActivityNew",
+        "method": "",
+        "bundle": "com.jd.lib.address"
+    },
+    {
+        "uri": "jingdong://editneweasybuyaddress/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.address.activity.EditNewEasyBuyAddressActivity",
+        "method": "",
+        "bundle": "com.jd.lib.address"
+    },
+    {
+        "uri": "jingdong://editorderaddresslistfloor/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.address.activity.EditOrderAddressListFloorActivity",
+        "method": "",
+        "bundle": "com.jd.lib.address"
+    },
+    {
+        "uri": "jingdong://selfpickmapactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.address.activity.SelfPickMapActivity",
+        "method": "",
+        "bundle": "com.jd.lib.address"
+    },
+    {
+        "uri": "jingdong://mygiftcardactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.mycard.mygiftcard.view.activity.MyGiftCardActivity",
+        "method": "",
+        "bundle": "com.jd.lib.mycard"
+    },
+    {
+        "uri": "jingdong://binding_card_list/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.mycard.mybankcard.list.view.activity.BindingCardListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.mycard"
+    },
+    {
+        "uri": "jingdong://contentfocusactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.contentfocus.view.activity.ContentFocusActivity",
+        "method": "",
+        "bundle": "com.jd.lib.personal"
+    },
+    {
+        "uri": "jingdong://jdpayverifyactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.jdpayverify.JDPayVerifyActivity",
+        "method": "",
+        "bundle": "com.jd.lib.jdpayverify"
+    },
+    {
+        "uri": "jingdong://mylive/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.mylive.view.activity.VideoLiveRoomActivity",
+        "method": "",
+        "bundle": "com.jd.lib.mylive"
+    },
+    {
+        "uri": "jingdong://matrixaractivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.matrixar.MatrixArActivity",
+        "method": "",
+        "bundle": "com.jd.lib.matrixar"
+    },
+    {
+        "uri": "jingdong://communecommentlist/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.commune.view.activity.CommuneCommentListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.commune"
+    },
+    {
+        "uri": "jingdong://questionlist/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.commune.view.activity.CommuneListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.commune"
+    },
+    {
+        "uri": "jingdong://categorydetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.commune.view.activity.CommuneCategoryDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.commune"
+    },
+    {
+        "uri": "jingdong://usercenter/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.commune.view.activity.NewCommunePersonalActivity",
+        "method": "",
+        "bundle": "com.jd.lib.commune"
+    },
+    {
+        "uri": "jingdong://communeproductpublish/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.commune.view.activity.CommunePublishActivity",
+        "method": "",
+        "bundle": "com.jd.lib.commune"
+    },
+    {
+        "uri": "jingdong://questiondetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.commune.view.activity.CommuneDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.commune"
+    },
+    {
+        "uri": "jingdong://categorylist/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.commune.view.activity.CommuneCategoryListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.commune"
+    },
+    {
+        "uri": "jingdong://activitylist/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.commune.view.activity.CommuneTopicListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.commune"
+    },
+    {
+        "uri": "jingdong://communereplylist/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.commune.view.activity.CommuneReplyListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.commune"
+    },
+    {
+        "uri": "jingdong://activitydetail/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.commune.view.activity.CommuneActDetailActivity",
+        "method": "",
+        "bundle": "com.jd.lib.commune"
+    },
+    {
+        "uri": "jingdong://communepersonalhomepage/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.commune.view.activity.CommunePersonHomeActivity",
+        "method": "",
+        "bundle": "com.jd.lib.commune"
+    },
+    {
+        "uri": "jingdong://expertslist/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.commune.view.activity.CommuneExpertsListActivity",
+        "method": "",
+        "bundle": "com.jd.lib.commune"
+    },
+    {
+        "uri": "jingdong://communecategorypublish/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.commune.view.activity.CommuneCategoryPublishActivity",
+        "method": "",
+        "bundle": "com.jd.lib.commune"
+    },
+    {
+        "uri": "jingdong://categoryactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.category.CategoryActivity",
+        "method": "",
+        "bundle": "com.jd.lib.category"
+    },
+    {
+        "uri": "jingdong://threedtryclothactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.threedtryclothes.ThreedTryClothActivity",
+        "method": "",
+        "bundle": "com.jd.lib.threedtryclothes"
+    },
+    {
+        "uri": "jingdong://liveVerification/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.liveverification.transfer.TransferActivity",
+        "method": "",
+        "bundle": "com.jd.lib.liveverification"
+    },
+    {
+        "uri": "jingdong://armakeupactivity/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.armakeup.ArMakeupActivity",
+        "method": "",
+        "bundle": "com.jd.lib.armakeup"
+    },
+    {
+        "uri": "jingdong://livenessStartNew/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.facerecognition.liveness.LivenessStartActivity",
+        "method": "",
+        "bundle": "com.jd.lib.facerecognition"
+    },
+    {
+        "uri": "jingdong://faceLoginSwitchNew/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.facerecognition.liveness.FaceLoginSwitchActivity",
+        "method": "",
+        "bundle": "com.jd.lib.facerecognition"
+    },
+    {
+        "uri": "jingdong://livenessDetectNew/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.facerecognition.liveness.LivenessActivity",
+        "method": "",
+        "bundle": "com.jd.lib.facerecognition"
+    },
+    {
+        "uri": "jingdong://faceLoginSpecial/{param}",
+        "type": "0",
+        "activity": "com.jd.lib.facerecognition.liveness.FaceLoginActivity",
+        "method": "",
+        "bundle": "com.jd.lib.facerecognition"
+    }
+]
