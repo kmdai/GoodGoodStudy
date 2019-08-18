@@ -1,3 +1,9 @@
+/**
+ * 
+ * 数组内交换正负数
+ * 
+ * */
+
 #include <stdio.h>
 
 void swap(int *arr, int i, int j)
@@ -30,7 +36,7 @@ void paritition(int *arr, int n)
 
 int main()
 {
-    int arr[9] = {-5, 3, 2, -1, 4, -3, -4, 5, 9};
+    int arr[] = {-5, 3, 2, -1, 4, -3, -4, 5, 9};
     int size = sizeof(arr) / sizeof(int);
     paritition(arr, size);
 

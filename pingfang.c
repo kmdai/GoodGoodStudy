@@ -3,7 +3,7 @@
 int find(int *, int size);
 int main()
 {
-    int a[] = {-4,-2,-1, 0, 1, 2, 3, 7};
+    int a[] = {-4, -2, -1, 0, 1, 2, 3, 7};
     int sum = find(a, sizeof(a) / sizeof(int));
     printf("the sum=%d\n", sum);
     return 0;
