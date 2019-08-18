@@ -36,7 +36,7 @@ int main()
 {
     Backtracking backtracking;
     vector<int> candidates = {15, 8, 95, 48, 64, 78, 52, 47, 12, 98, 63, 58, 89, 78, 124};
-    auto result = backtracking.combinationSum(candidates, 110);
+    auto result = backtracking.combinationSum(candidates, 130);
     for (auto &r : result)
     {
         cout << "[";
